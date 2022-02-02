@@ -1,0 +1,87 @@
+These are the buttons that are used for hotkeys:
+ ___  ___  ___  ___
+| NL|| / || * || - |
+|___||___||___||___|
+| 7 || 8 || 9 || + |
+|___||___||___||   |
+| 4 || 5 || 6 ||   |
+|___||___||___||___|
+| 1 || 2 || 3 || EN|
+|___||___||___|| T |
+| 0      || . || ER|
+|________||___||___|
+
+List of shortcuts for numeric pad:
+
+----------------------------------------
+ENTER	| sends a script to activate Rebelle 5 window.
+	| press this button when you have done something
+	| outside of rebelle, before using rebelle again.
+	| This should prevent bug where pen or mouse disappears.
+----------------------------------------
+
+
+key	| |sends	| 
+press	| |(if preceded	|
+	| |an x you 	|
+	| |have to add	|
+	| |this short-	|
+	| |cut yourself |
+	| |in Rebelle)	|
+========================================
+/ 	| |LAlt		| color pick (hold)
+* 	| |x		| color tint (hold)
+----------------------------------------
+7	| |r		| rotate canvas (hold)
+8	|x|Ctrl+Shift+w	| reset rotation
+9	| |z		| zoom canvas (hold)
+----------------------------------------
+4	| |Ctrl+z	| undo
+5	| |4		| paint mode - blend
+6	| |Ctrl+Shift+z	| redo
+----------------------------------------
+1	| |1		| paint mode - paint
+2	| |2		| paint mode - paint & mix 
+3	| |3		| paint mode - paint & blend
+----------------------------------------
+0	|x|Ctrl+Shift+f	| reduce brush size
+.	|x|Ctrl+Shift+g	| increase brush size
+----------------------------------------
+-	| |Alt+m	| toggle multibrush
++	| |Alt+d	| toggle dirty brush
+
+----------------------------------------
+
+Key combos with Num Lock
+(When script is running 
+Num Locks normal function is disabled)
+
+key	| |sends	| 
+press	| |		|
+========================================
+NL + 7	| |Ctrl+Alt+f	| select tool (freehand)
+NL + 8	| |Ctrl+d	| deselect
+NL + 9	| |t		| transform tool
+----------------------------------------
+NL + 4	| |Shift+w	| watercolor
+NL + 5	| |shift+i	| ink
+NL + 6	| |shift+n	| pencil
+----------------------------------------
+NL + 1	| |w		| water (wet tool)
+NL + 2	| |y		| sponge (dry tool)
+NL + 3 	| |o		| air (blow tool)
+----------------------------------------
+
+Key combos for brush settings
+
+key	| |sends	| 
+press	| |		|
+========================================
+1 + 0	|x|Ctrl+Shift+a	| red. Loading
+1 + .	|x|Ctrl+Shift+s	| inc. Loading
+----------------------------------------
+2 + 0	|x|Ctrl+Shift+p	| red. Oiliness
+2 + .	|x|Ctrl+Shift+l	| inc. Oiliness
+----------------------------------------
+3 + 0	|x|Ctrl+Shift+c	| red. Pressure
+3 + .	|x|Ctrl+Shift+v	| inc. Pressure
